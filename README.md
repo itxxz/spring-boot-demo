@@ -8,5 +8,6 @@
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0319/890.html" target="_blank">spring boot 1.5.2教程1 一个简单的应用</a></p>
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0319/891.html" target="_blank">spring boot 1.5.2教程2 集成mybatis</a></p>
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/892.html" target="_blank">spring boot 1.5.2教程3 mysql多条件动态查询</a></p>
+<p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/896.html" target="_blank">spring boot 1.5.2教程4 整合tomcat</a></p>
 
 <p style="font-size: 14px;">示例工程是Maven工程，需要了解Maven基础。</p>
