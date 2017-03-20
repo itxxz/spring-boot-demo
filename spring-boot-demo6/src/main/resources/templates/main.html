@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<#assign contextPath = request.contextPath />
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<link rel='stylesheet' href='${contextPath}/itxxz.css' type='text/css' media='all' />
+		<title>示例页面</title>
+	</head>
+	<body>
+	<table id="travel">
+	    <thead>    
+	        <tr>
+	            <th scope="col">编号</th>
+	            <th scope="col">标题</th>
+	            <th scope="col">描述</th>
+	        </tr>        
+	    </thead>
+	    
+	    <tbody>
+	    	<#list list as site>
+	    	<tr>
+	            <td>${site.id}</td>
+	            <td>${site.name}</td>
+	            <td>${site.remark}</td>
+	        </tr>
+	        </#list>
+	     </tbody>
+    </table>
+	</body>
+</html>
