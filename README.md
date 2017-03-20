@@ -1,6 +1,8 @@
 # spring-boot-demo
 
-最近新增了几个微服务的项目，也为了便于大家对spring boot的快速入门，先整理如下。由于工作较忙，无法一一回复，请谅解。
+最近新增了几个微服务的项目，也为了便于大家对spring boot的快速入门，先整理如下。
+
+由于工作较忙，无法一一回复，请谅解。
 
 技术探讨可添加螃蟹的微信公众号：itxxz_px
 
@@ -10,5 +12,6 @@
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/892.html" target="_blank">spring boot 1.5.2教程3 mysql多条件动态查询</a></p>
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/896.html" target="_blank">spring boot 1.5.2教程4 整合tomcat</a></p>
 <p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/897.html" target="_blank">spring boot 1.5.2教程5 整合freemarker</a></p>
+<p style="font-size: 14px;"><a href="http://www.itxxz.com/a/opensource/2017/0320/899.html" target="_blank">spring boot1.5.2教程6 整合spring security</a></p>
 
 <p style="font-size: 14px;">示例工程是Maven工程，需要了解Maven基础。</p>
